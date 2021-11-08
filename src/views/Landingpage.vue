@@ -38,7 +38,7 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat maiores
         ipsum doloremque et possimus, delectus tenetur magnam, voluptates
         temporibus pariatur officiis provident asperiores. Ullam id magnam
-        facere rerum tempore consequuntur.
+        facere rerum tempore consequuntur
       </b-col>
     </b-row>
 
